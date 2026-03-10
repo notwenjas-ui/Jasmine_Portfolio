@@ -1,4 +1,4 @@
-Jasmine Newton - Session 01 Navigation
+Jasmine Newton - Session 01 Scavenger Hunt
 Log Path: /var/log/syslog
 Mission Path: /opt/alpha/mission.txt
 Mission Secret: MISSION SECURE: The system is yours. Do not fear the dark. 
