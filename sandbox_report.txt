@@ -1,0 +1,6 @@
+Question 1: Ping Test Results 
+The ping test failed with "Temporaray failure in name resolution" which means its doing its job
+QUESTION 2: Explain why Bridged mode gives malware a map to your local network.
+In NAT (Network Address Translation) mode, the VM hides behind the host's IP address, while Bridged mode gives malware a map to your local networ by 
+getting its own IP address directly from teh computer.  
+
